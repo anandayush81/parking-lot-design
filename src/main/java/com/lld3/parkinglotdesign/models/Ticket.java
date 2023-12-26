@@ -9,7 +9,6 @@ import java.util.Date;
 public class Ticket extends BaseModel {
 
     private Vehicle vehicle;
-
     private Date entryTime;
     private Long spotId;
     private Long entryGateId;
